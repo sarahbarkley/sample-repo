@@ -1,5 +1,5 @@
-## sample-repo
-# sub-title
+# sample-repo
+## sub-title
 This is an example repository
 
 
